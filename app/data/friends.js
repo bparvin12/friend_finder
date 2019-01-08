@@ -2,7 +2,7 @@ var friends = [
     {
         name: "Bill",
         photo: "https://cdn2.vectorstock.com/i/1000x1000/72/51/stick-figure-stickman-icon-pictogram-simple-vector-18167251.jpg",
-        socres: [
+        scores: [
             "5",
             "3",
             "2",
@@ -18,7 +18,7 @@ var friends = [
     {
         name: "Bob",
         photo: "https://cdn2.vectorstock.com/i/1000x1000/72/51/stick-figure-stickman-icon-pictogram-simple-vector-18167251.jpg",
-        socres: [
+        scores: [
             "4",
             "3",
             "2",
@@ -34,7 +34,7 @@ var friends = [
     {
         name: "Billy-Bob",
         photo: "https://cdn2.vectorstock.com/i/1000x1000/72/51/stick-figure-stickman-icon-pictogram-simple-vector-18167251.jpg",
-        socres: [
+        scores: [
             "5",
             "3",
             "2",
