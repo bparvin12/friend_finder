@@ -4,11 +4,11 @@ var bodyParser = require('body-parser');
 
 var PORT = process.env.PORT || 3000;
 
-//application/json parser
-var jsonParser = bodyParser.json()
+// //application/json parser
+// var jsonParser = bodyParser.json()
 
 //application/url parser
-var urlencodedParser = bodyParser.urlencoded({ extended: false })
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // app.get('/', function (req, res) {
 //     res.send('Friend Finder');
